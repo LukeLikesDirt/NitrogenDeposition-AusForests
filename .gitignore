@@ -2,6 +2,10 @@
 **/*.tif
 **/*.tiff
 
+# Mac folder attributes file
+.DS_Store
+**/.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history
