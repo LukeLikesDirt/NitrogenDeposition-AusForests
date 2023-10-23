@@ -1,3 +1,7 @@
+# Large data files
+**/*.tif
+**/*.tiff
+
 # History files
 .Rhistory
 .Rapp.history
